@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @andreweduncan
-Currently, I am a Data Engineer at Candlescience working with SQL and Python
+- 👋 Hi, I’m @andreweduncan </br>
+Currently, I am a **Data Engineer** at Candlescience working with **SQL** and **Python**
 
-Feel free to drop me a line with any questions about my work in Looker, Hex, DBT, 
-Google Bigquery, or anything else that strikes your interest.
+Feel free to drop me a line with any questions about my work in </br>
+**Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
+or anything else that strikes your interest. </br>
 
 In the future, I hope to update a fun project I did creating a data pipeline from 
-the World of Warcraft auction house using python-based API calls into a local PSQL instance.
+the World of Warcraft auction house using **python-based API calls** into a **local Postgres SQL instance**.
 
 Nerd.
 Husband.
 Former Army Infantry Squad Leader.
 UNC Alum.
+
 Get at me.
 
 <!---
