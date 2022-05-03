@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreweduncan </br>
-Currently, I am a **Data Engineer** working with **SQL** and **Python**
+Currently, I am a **Data Engineer** at Candlescience working with **SQL** and **Python**
 
 Feel free to drop me a line with any questions about my work in </br>
 **Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
