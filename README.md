@@ -10,7 +10,7 @@ the World of Warcraft auction house using **python-based API calls** into a **lo
 
 Nerd.
 Husband.
-Former Army Infantry Squad Leader.
+Infantry Paratrooper.
 UNC Alum.
 
 Get at me.
