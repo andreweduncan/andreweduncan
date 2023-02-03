@@ -5,9 +5,6 @@ Feel free to drop me a line with any questions about my work in </br>
 **Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
 or anything else that strikes your interest. </br>
 
-In the future, I hope to update a fun project I did creating a data pipeline from 
-the World of Warcraft auction house using **python-based API calls** into a **local Postgres SQL instance**.
-
 Nerd.
 Husband.
 Infantry Paratrooper.
