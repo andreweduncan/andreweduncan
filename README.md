@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @andreweduncan </br>
-I am an **Analytics Engineer** at Candlescience working with **SQL** and **Python**
+👋 I’m @andreweduncan </br>
+**Analytics Engineer** at Candlescience working with **SQL** and **Python**
 
 Feel free to drop me a line with any questions about my work in </br>
 **Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
@@ -13,7 +13,7 @@ UNC Alum.
 Get at me.
 
 <!---
- 
+ Uh, sorry I don't have much in the way of easter eggs.
 
 "Did you ever hear the tragedy of Darth Plagueis the Wise?"
 "No."
