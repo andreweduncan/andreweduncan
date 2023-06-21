@@ -1,6 +1,4 @@
-# Drew Duncan
-
-**Analytics Engineer** at Candlescience working with **SQL** and **Python**
+# Analytics Engineer
 
 Feel free to drop me a line with any questions about my work in </br>
 <p><!--
@@ -11,8 +9,7 @@ Feel free to drop me a line with any questions about my work in </br>
 
 
 ## Current Data Stack
-**Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
-or anything else that strikes your interest. </br>
+Currently, I work on an ETL data stack. utilizing **Fivetran**, **Google Bigquery**, **DBT**, and **Looker**.</br>
 
 Nerd.
 Husband.
@@ -21,10 +18,12 @@ UNC Alum.
 
 Get at me.
 
+I am open to working on projects and love building new things to learn - if there's anything I can help with, reach out!
+
 
 ✅ weird fixation with regex </br>
 ✅ loves helping people save time on manual processes </br>
-✅ fond of green checkboxes
+✅ fond of green boxes
 <!---
 Uh, sorry I don't have much in the way of easter eggs.
 
