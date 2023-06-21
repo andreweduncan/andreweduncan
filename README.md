@@ -1,7 +1,16 @@
-👋 I’m @andreweduncan </br>
+# Drew Duncan
+
 **Analytics Engineer** at Candlescience working with **SQL** and **Python**
 
 Feel free to drop me a line with any questions about my work in </br>
+<p><!--
+  --><img src="https://img.shields.io/badge/SQL-green" alt="SQL"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
+  --><img src="https://img.shields.io/badge/lkml-blue" alt="LookML"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
+  --><img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>&nbsp<!-- 
+--></p> 
+
+
+## Current Data Stack
 **Looker**, **Hex**, **DBT**, **Google Bigquery**, </br>
 or anything else that strikes your interest. </br>
 
@@ -12,8 +21,12 @@ UNC Alum.
 
 Get at me.
 
+
+✅ weird fixation with regex </br>
+✅ loves helping people save time on manual processes </br>
+✅ fond of green checkboxes
 <!---
- Uh, sorry I don't have much in the way of easter eggs.
+Uh, sorry I don't have much in the way of easter eggs.
 
 "Did you ever hear the tragedy of Darth Plagueis the Wise?"
 "No."
