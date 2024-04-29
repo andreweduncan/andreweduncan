@@ -1,6 +1,5 @@
-# Analytics Engineer
-
-Feel free to drop me a line with any questions about my work in </br>
+# Drew
+*I make digital things* </br>
 <p><!--
   --><img src="https://img.shields.io/badge/SQL-green" alt="SQL"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
   --><img src="https://img.shields.io/badge/lkml-blue" alt="LookML"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
@@ -9,7 +8,7 @@ Feel free to drop me a line with any questions about my work in </br>
 
 
 ## Current Data Stack
-Currently, I work on an ETL data stack. utilizing **Fivetran**, **Google Bigquery**, **DBT**, and **Looker**.</br>
+I work as an Analytics Engineer for a data team using an ETL data stack. utilizing **Fivetran**, **Google Bigquery**, **DBT**, and **Looker**.</br>
 
 Nerd.
 Husband.
