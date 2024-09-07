@@ -10,8 +10,11 @@
 ## Current Data Stack
 I work as an Analytics Engineer for a data team using an ETL data stack. utilizing **Fivetran**, **Google Bigquery**, **DBT**, and **Looker**.</br>
 
-Nerd.
-Dad, Husband, Nerd.
+
+dad. 
+husband.
+lifetime learner.
+nerd.
 
 Get at me.
 
