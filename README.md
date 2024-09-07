@@ -11,9 +11,7 @@
 I work as an Analytics Engineer for a data team using an ETL data stack. utilizing **Fivetran**, **Google Bigquery**, **DBT**, and **Looker**.</br>
 
 Nerd.
-Husband.
-Infantry Paratrooper.
-UNC Alum.
+Dad, Husband, Nerd.
 
 Get at me.
 
