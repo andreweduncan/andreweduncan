@@ -1,10 +1,11 @@
 # Drew
-*I make digital things* </br>
-<p><!--
-  --><img src="https://img.shields.io/badge/SQL-green" alt="SQL"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
-  --><img src="https://img.shields.io/badge/lkml-blue" alt="LookML"/>&nbsp&nbsp&deg&nbsp&nbsp<!-- 
-  --><img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>&nbsp<!-- 
---></p> 
+*I make digital tools* </br></br>
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![LookML](https://img.shields.io/badge/LookML-652D90?style=flat-square&logo=looker&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
 
 
 ## Current Data Stack
@@ -25,8 +26,6 @@ I am open to working on projects and love building new things to learn - if ther
 ✅ loves helping people save time on manual processes </br>
 ✅ fond of green boxes
 <!---
-Uh, sorry I don't have much in the way of easter eggs.
-
 "Did you ever hear the tragedy of Darth Plagueis the Wise?"
 "No."
 "I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis... was a Dark Lord of the Sith so powerful and so wise, he could use the Force to influence the midi-chlorians... to create... life. He had such a knowledge of the dark side, he could even keep the ones he cared about... from dying."
