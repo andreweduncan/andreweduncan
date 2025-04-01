@@ -1,5 +1,5 @@
 # Drew
-*I make digital tools* </br></br>
+*I make tools* </br></br>
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
   ![LookML](https://img.shields.io/badge/LookML-652D90?style=flat-square&logo=looker&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
